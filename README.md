@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yohannes Alelign</h1>
 <h3 align="center">A passionate MERN stack developer from Ethiopia</h3>
 
-- 🌱 I’m currently learning **ALX Software engineering program**
+- 🌱 I’m currently learning **FTL Ethiopia Machine learning Bootcamp powerd by UNDP**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Node**
 

@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **FTL Ethiopia Machine learning Bootcamp powerd by UNDP**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Node**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Node, Python, Machine learning, Data science**
 
 - 📫 How to reach me **johniece2008@gmail.com**
 
